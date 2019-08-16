@@ -3,7 +3,7 @@ Fundamental Neuromodulation
 
 For the meetings of the fundamental neuromodulation research group we can discuss about a paper. Since many papers are interesting to read, it is proposed to vote for which paper to discuss. Please read the title and abstract and share your vote. 
 
-If you have any suggestion for a paper to be added to the list, please do share.
+If you have a suggestion for a paper to be added to the list, please do share.
 
 ---
 ## **PAPER 1**: *Neuroimaging and neuromodulation approaches to study eating behavior and prevent and treat eating disorders and obesity*
