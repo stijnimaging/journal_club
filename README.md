@@ -19,10 +19,9 @@ If you have a suggestion for a paper to be added to the list, please do share.
 
 **VOTE HERE:**
 
-[![](https://api.gh-polls.com/poll/01DJCP04KNVHFV639BEG2NYFD1/Paper%201)](https://api.gh-polls.com/poll/01DJCP04KNVHFV639BEG2NYFD1/Paper%201/vote)
-[![](https://api.gh-polls.com/poll/01DJCP04KNVHFV639BEG2NYFD1/Paper%202)](https://api.gh-polls.com/poll/01DJCP04KNVHFV639BEG2NYFD1/Paper%202/vote)
-[![](https://api.gh-polls.com/poll/01DJCP04KNVHFV639BEG2NYFD1/Paper%203)](https://api.gh-polls.com/poll/01DJCP04KNVHFV639BEG2NYFD1/Paper%203/vote)
-[![](https://api.gh-polls.com/poll/01DJCP04KNVHFV639BEG2NYFD1/Paper%204)](https://api.gh-polls.com/poll/01DJCP04KNVHFV639BEG2NYFD1/Paper%204/vote)
-
+[![](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Paper%201)](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Paper%201/vote)
+[![](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Paper%202)](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Paper%202/vote)
+[![](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Paper%203)](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Paper%203/vote)
+[![](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Another%20suggestion%20)](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Another%20suggestion%20/vote)
 
 Generated via https://app.gh-polls.com/
