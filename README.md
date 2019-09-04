@@ -22,4 +22,4 @@ Results:
 - Paper 1: 1 vote
 - Paper 2: 4 votes
 - Paper 3: 2 votes
-No other suggestions were filled in.
+- No other suggestions were filled in.
