@@ -17,11 +17,9 @@ If you have a suggestion for a paper to be added to the list, please do share.
 #### ABSTRACT:Preventable chronic diseases are the leading cause of death in the majority of countries throughout the world, and this trend will continue for the foreseeable future. The potential to offset the social, economic, and personal burdens associated with such conditions depends on our ability to influence people’s thought processes, decisions, and behaviors, all of which can be understood with reference to the brain itself. Within the health neuroscience framework, the brain can be viewed as a predictor, mediator, moderator, or outcome in relation to health-related phenomena. This review explores examples of each of these, with specific reference to the primary prevention (i.e., prevention of initial onset) of chronic diseases. Within the topic of primary prevention, we touch on several cross- cutting themes (persuasive communications, delay discounting of rewards, and self-control), and place a special focus on obesity as a disorder influenced by both eating behavior and exercise habits.
 ---
 
-**VOTE HERE:**
-
-[![](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Paper%201)](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Paper%201/vote)
-[![](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Paper%202)](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Paper%202/vote)
-[![](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Paper%203)](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Paper%203/vote)
-[![](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Another%20suggestion%20)](https://api.gh-polls.com/poll/01DKRBSC7KTCJRAMXE8ZCFKKR8/Another%20suggestion%20/vote)
-
-Generated via https://app.gh-polls.com/
+**Based on votes, paper 2 will be discussed**
+Results:
+- Paper 1: 1 vote
+- Paper 2: 4 votes
+- Paper 3: 2 votes
+No other suggestions were filled in.
