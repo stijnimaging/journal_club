@@ -1,7 +1,7 @@
 # Schedule
 
 | Date | Presenter | Journal Club/Data | Link DOI |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 4 Sept 2019 | Stijn Michielse | Journal Club | https://dx.doi.org/10.3389%2Ffnsys.2012.00015 |
 | 18 Sept 2019 | Faisal Alosaimi | Data | |
 | 2 Oct 2019 | Jackson Boonstra | Journal Club | https://doi.org/10.1016/j.neuroimage.2017.12.050 |
