@@ -1,15 +1,15 @@
 # Schedule
 
-| Date | Presenter | Journal Club/Data |
+| Date | Presenter | Journal Club/Data | Link DOI |
 | --- | --- | --- |
-| 4 Sept 2019 | Stijn Michielse | Journal Club |
-| 18 Sept 2019 | Faisal Alosaimi | Data |
-| 2 Oct 2019 | Jackson Boonstra | Journal Club |
-| 16 Oct 2019 | Ali and Sarah in Samsun | --- |
-| 30 Oct 2019 | Huajie Liu | Data |
-| 13 Nov 2019 | Sylvana Pol | Journal Club |
-| 27 Nov 2019 | Faris Almasabi | Data |
-| 11 Dec 2019 | Gowoon Son | Journal Club |
+| 4 Sept 2019 | Stijn Michielse | Journal Club | https://dx.doi.org/10.3389%2Ffnsys.2012.00015 |
+| 18 Sept 2019 | Faisal Alosaimi | Data | |
+| 2 Oct 2019 | Jackson Boonstra | Journal Club | https://doi.org/10.1016/j.neuroimage.2017.12.050 |
+| 16 Oct 2019 | Ali and Sarah in Samsun | --- | |
+| 30 Oct 2019 | Huajie Liu | Data | |
+| 13 Nov 2019 | Sylvana Pol | Journal Club | |
+| 27 Nov 2019 | Faris Almasabi | Data | |
+| 11 Dec 2019 | Gowoon Son | Journal Club | |
 
 # Journal Club
 Fundamental Neuromodulation
